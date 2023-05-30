@@ -1,3 +1,5 @@
+
+
 plugins {
   id 'com.android.application'
   id 'kotlin-android'
@@ -75,3 +77,6 @@ dependencies {
   implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.3"
   implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0-alpha01"
 }
+
+//ConstraintLayout
+implementation 'androix.constraintLayout:constraintLayout-compose:1.0.1'
